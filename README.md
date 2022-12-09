@@ -1,7 +1,5 @@
-#Live Demo
+#****Live Demo
 [Live demo](https://todo.sujeetdeore777.repl.co/)
-
-
 
 
 # Getting Started with Create React App
